@@ -1,1 +1,1 @@
-# Smart-Home
+A smart home (Smart Home) is a system in which devices and technologies work together to make our lives more comfortable, safer and more economical. Such devices are often connected to the Internet and can operate automatically or respond to a user's command.
